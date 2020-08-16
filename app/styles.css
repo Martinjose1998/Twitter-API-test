@@ -1,0 +1,25 @@
+@media (max-width: 1000px) {
+    .center
+    {
+        padding: 10px;
+    }
+}
+@media (min-width: 1000px) {
+    .center
+    {
+        position: absolute;
+        left:30%;
+        width: 60%;
+        padding: 10px;
+    }
+}
+
+.form
+{
+    width: 70vh;
+}
+
+.bar
+{
+    height:5vh
+}

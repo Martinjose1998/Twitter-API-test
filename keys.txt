@@ -1,0 +1,7 @@
+API key:tMjisTpQEmwLBsWugY0hNl1ZK
+
+API key secret:q2m0RVr2TPmrY2dQvdOppL8uelye9qtvOtKTNByfnoBvgcg4iy
+
+Access token:1294406711361634306-rqQMTa3izu7ALD1R5wyvGIlrxz2QGX
+
+Access token secret:JHKmpIj3FXYh2AxTeklAsbmM3FuwG6v7zYbGSUwHRLdG4
